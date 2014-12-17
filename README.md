@@ -19,6 +19,6 @@ to
 def next(self):
 ```
 
-To use the interpreter, you can run StaPLE in IDLE or import it into the python command line.  The interpret(string) command can be used to interpret a StaPLe string.  The class has a parseFile(filename) method that can be used to porcess  code from a source file.
+To use the interpreter, you can run StaPLe in IDLE or import it on the python command line.  The interpret(string) command can be used to interpret a StaPLe string.  The class has a parseFile(filename) method that can be used to porcess  code from a source file.
 
 At a future point, I will update so it can be called straight from the command line.
